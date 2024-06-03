@@ -39,5 +39,9 @@ $ git status
 
 $ git log
 
+# Git checkout 
+## use this to go back in time
+
+
 ```
 
