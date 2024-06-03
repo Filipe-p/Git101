@@ -42,6 +42,6 @@ $ git log
 # Git checkout 
 ## use this to go back in time
 
-
+$ git checkout <commit>
 ```
 
