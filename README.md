@@ -1,0 +1,35 @@
+# This is a README 
+
+some text
+
+
+### Agenda 
+
+- Git
+- bash
+- github
+
+
+### Git commands
+
+
+this is text
+
+code snipts 
+
+```python
+
+# Starting a git repo
+
+$ git init 
+
+# Adding files to track 
+
+$ git add .
+
+# Commiting Files 
+
+$ git commit -m "useful comment"
+
+
+```
