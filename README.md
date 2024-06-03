@@ -31,5 +31,13 @@ $ git add .
 
 $ git commit -m "useful comment"
 
+# Git status
+
+$ git status
+
+# Check logs
+
+$ git log
 
 ```
+
